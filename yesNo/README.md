@@ -15,7 +15,8 @@ One word: either "YES" or "NO" (quotation marks excluded).
 `
 y
 `
-## Sample Output 1
+
+## Sample Output 1
 `
 YES
 `
