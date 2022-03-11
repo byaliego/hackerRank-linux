@@ -1,6 +1,6 @@
 Problem Statement
 Given two integers, X and Y, identify whether X<Y or X>Y or X=Y.
-Comparisons in a shell script may either be accomplished using regular operators (such as <or >) or using (-lt, -gt, -eq, i.e. less than, greater than, equal to) for POSIX shells. This discussion on stack overflow contains useful information on this topic.
+
 Input Format 
 Two lines containing one integer each (X and Y, respectively).
 Output Format 
