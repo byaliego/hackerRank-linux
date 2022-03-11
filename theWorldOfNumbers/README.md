@@ -10,13 +10,25 @@ Four lines containing the sum (X+Y), difference (X−Y), product (X×Y), and quo
 (While computing the quotient, print only the integer part.)
 # Sample Input
 `
-5  
+5 
+`
+</br>
+`
 2
 `
 # Sample Output
 `
 7
+`
+</br>
+`
 3
+`
+</br>
+`
 10
+`
+</br>
+`
 2
 `
